@@ -1,3 +1,5 @@
+This project is no longer maintained!
+
 # Single Page Theme developed with VueJS and WP REST API v2
 
 Basic Single Page Theme developed with WordPress REST API v2 and VueJS 2.0.
